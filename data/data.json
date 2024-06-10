@@ -1,0 +1,338 @@
+{
+	"A": [
+		{
+			"id": "T-sVDerQ",
+			"name": "Cabras Insanas",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 43.60000000000005,
+				"SPEED": 11.500000000000005,
+				"STRENGTH": 680.0
+			}
+		},
+		{
+			"id": "T-IbsUELv",
+			"name": "Gran Colombo",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 33.1999999999999,
+				"SPEED": 11.300000000000006,
+				"STRENGTH": 720.0
+			}
+		},
+		{
+			"id": "T-YFPNIt",
+			"name": "Pasto Sombrío",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 42.60000000000004,
+				"SPEED": 9.500000000000012,
+				"STRENGTH": 905.0
+			}
+		},
+		{
+			"id": "T-OqZcS`",
+			"name": "Troilo Play",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 52.60000000000018,
+				"SPEED": 16.8,
+				"STRENGTH": 695.0
+			}
+		}
+	],
+	"B": [
+		{
+			"id": "T-UtSiKJ",
+			"name": "Relicarios Dos",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 41.60000000000002,
+				"SPEED": 13.299999999999999,
+				"STRENGTH": 575.0
+			}
+		},
+		{
+			"id": "T-nWVgPb",
+			"name": "Once Bellacos",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 43.40000000000005,
+				"SPEED": 14.799999999999994,
+				"STRENGTH": 815.0
+			}
+		},
+		{
+			"id": "T-WWLLDL",
+			"name": "Mundo Rosa",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 43.40000000000005,
+				"SPEED": 14.799999999999994,
+				"STRENGTH": 815.0
+			}
+		},
+		{
+			"id": "T-wgXGJM",
+			"name": "Atlético Libre",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 53.40000000000019,
+				"SPEED": 15.69999999999999,
+				"STRENGTH": 435.0
+			}
+		}
+	],
+	"C": [
+		{
+			"id": "T-AZPUAr",
+			"name": "Endeudarios",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 42.60000000000004,
+				"SPEED": 13.699999999999998,
+				"STRENGTH": 645.0
+			}
+		},
+		{
+			"id": "T-GksuCi",
+			"name": "Reyes Magos",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 59.80000000000028,
+				"SPEED": 12.500000000000002,
+				"STRENGTH": 555.0
+			}
+		},
+		{
+			"id": "T-uoWEPo",
+			"name": "Ley Callejera",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 62.00000000000031,
+				"SPEED": 7.700000000000019,
+				"STRENGTH": 695.0
+			}
+		},
+		{
+			"id": "T-ncimhe",
+			"name": "Los Chamos",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 62.00000000000031,
+				"SPEED": 7.700000000000019,
+				"STRENGTH": 695.0
+			}
+		}
+	],
+	"D": [
+		{
+			"id": "T-ejYnAG",
+			"name": "Tiempo Apurado",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 37.599999999999966,
+				"SPEED": 26.300000000000136,
+				"STRENGTH": 520.0
+			}
+		},
+		{
+			"id": "T-mIcjGU",
+			"name": "Los Mimados",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 40.80000000000001,
+				"SPEED": 16.399999999999995,
+				"STRENGTH": 520.0
+			}
+		},
+		{
+			"id": "T-MBiLEa",
+			"name": "Tele y Trabajo",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 52.60000000000018,
+				"SPEED": 17.50000000000001,
+				"STRENGTH": 545.0
+			}
+		},
+		{
+			"id": "T-RzcLDZ",
+			"name": "Compis Molonguis",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 49.00000000000013,
+				"SPEED": 18.10000000000002,
+				"STRENGTH": 485.0
+			}
+		}
+	],
+	"E": [
+		{
+			"id": "T-hykMwK",
+			"name": "Capas de Héroe",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 64.00000000000034,
+				"SPEED": 13.100000000000001,
+				"STRENGTH": 1085.0
+			}
+		},
+		{
+			"id": "T-bADlwn",
+			"name": "Escuadrón Lobos",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 81.60000000000059,
+				"SPEED": 15.099999999999994,
+				"STRENGTH": 1270.0
+			}
+		},
+		{
+			"id": "T-bRPaxn",
+			"name": "Grupo Dinámico",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 49.600000000000136,
+				"SPEED": 21.70000000000007,
+				"STRENGTH": 880.0
+			}
+		},
+		{
+			"id": "T-aEYMiM",
+			"name": "Estrellas Brillantes",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 32.599999999999895,
+				"SPEED": 11.500000000000007,
+				"STRENGTH": 490.0
+			}
+		}
+	],
+	"F": [
+		{
+			"id": "T-UPaBvy",
+			"name": "Los Campeones",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 30.199999999999896,
+				"SPEED": 11.500000000000007,
+				"STRENGTH": 490.0
+			}
+		},
+		{
+			"id": "T-aFEpKb",
+			"name": "Equipo Poderoso",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 30.199999999999896,
+				"SPEED": 18.80000000000003,
+				"STRENGTH": 850.0
+			}
+		},
+		{
+			"id": "T-FSrXfX",
+			"name": "Rayo de Esperanza",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 58.80000000000027,
+				"SPEED": 21.500000000000068,
+				"STRENGTH": 890.0
+			}
+		},
+		{
+			"id": "T-roVuNr",
+			"name": "Tormenta Creativa",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 44.600000000000065,
+				"SPEED": 13.100000000000001,
+				"STRENGTH": 620.0
+			}
+		}
+	],
+	"G": [
+		{
+			"id": "T-qpPXyW",
+			"name": "Águilas Voladoras",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 44.600000000000065,
+				"SPEED": 13.100000000000001,
+				"STRENGTH": 655.0
+			}
+		},
+		{
+			"id": "T-qpjmqD",
+			"name": "Fuego y Hielo",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 104.60000000000092,
+				"SPEED": 7.80000000000002,
+				"STRENGTH": 675.0
+			}
+		},
+		{
+			"id": "T-RUQZdf",
+			"name": "Espíritu Ganador",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 40.0,
+				"SPEED": 13.0,
+				"STRENGTH": 600.0
+			}
+		},
+		{
+			"id": "T-kVBZgg",
+			"name": "Amigos Fieles",
+			"stats": {
+				"ACCURACY": "Alta",
+				"RESISTANCE": 128.20000000000124,
+				"SPEED": 13.2,
+				"STRENGTH": 645.0
+			}
+		}
+	],
+	"H": [
+		{
+			"id": "T-vVlrKr",
+			"name": "Destino Dorado",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 128.20000000000124,
+				"SPEED": 13.2,
+				"STRENGTH": 1120.0
+			}
+		},
+		{
+			"id": "T-FNXxaN",
+			"name": "Los Visionarios",
+			"stats": {
+				"ACCURACY": "Media",
+				"RESISTANCE": 81.60000000000059,
+				"SPEED": 14.499999999999995,
+				"STRENGTH": 700.0
+			}
+		},
+		{
+			"id": "T-cdrNum",
+			"name": "Los Soñadores",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 81.60000000000059,
+				"SPEED": 12.100000000000003,
+				"STRENGTH": 775.0
+			}
+		},
+		{
+			"id": "T-CEWcJf",
+			"name": "Toros E",
+			"stats": {
+				"ACCURACY": "Baja",
+				"RESISTANCE": 22.399999999999924,
+				"SPEED": 5.400000000000027,
+				"STRENGTH": 3175.0
+			}
+		}
+	]
+}
